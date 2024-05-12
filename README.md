@@ -25,5 +25,5 @@ purge.bat: (*Be carefull!)
 Used to terminate all running python or java instances based on the arguments.
 
 *Disclamer:
-While I use them regularly on my computer, restartWinEX and purge may be harmfull to your machine.
-I included them as examples and am not responsoble for any problems may result from running them.
+While I use them regularly on my computer, restartWinEX and purge may be harmful to your machine.
+I included them as examples and am not responsible for any problems may result from running them.
